@@ -3,7 +3,7 @@
 
 <!-- githubstats thing -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tooneyturkey&show_icons=true&locale=en" alt="tooneyturkey" /></p>
-im currently focusing on scouting & strategy for frc team 4198 with Aiden Lee (https://github.com/snaapsh0t12)
+im currently focusing on scouting & strategy for frc team 4198 with <a href="https://github.com/snaapsh0t12"> Aiden Lee</a>
 <br>
 this includes: <br>
 * maintaining meanscout <br>
