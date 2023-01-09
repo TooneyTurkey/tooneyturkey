@@ -3,13 +3,16 @@
 
 <!-- githubstats thing -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tooneyturkey&show_icons=true&locale=en" alt="tooneyturkey" /></p>
-im currently focusing on scouting for frc team 4198 with Aiden Lee (https://github.com/snaapsh0t12)
+im currently focusing on scouting & strategy for frc team 4198 with Aiden Lee (https://github.com/snaapsh0t12)
 <br>
 this includes: <br>
 * maintaining meanscout <br>
 * maintaining vilescout <br>
-* maintaining the spreadsheet used to review the data taken in from these <br>
-* adapting all fo the above from year to year <br>
+* maintaining the spreadsheet used to review the data taken in <br>
+* adapting all of the above from year to year <br>
+* organizing our scouting efforts at events <br>
+* presenting our predictions for how future games will go & other important info on future games <br>
+* discussing how we can play the next matches with our data in mind <br>
 
 <!-- languages and tools bit -->
 <h3 align="left">Top 3's:</h3>
