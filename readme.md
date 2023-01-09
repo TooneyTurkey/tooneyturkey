@@ -35,5 +35,5 @@ im currently focusing on scouting for frc team 4198 with Aiden Lee (https://gith
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tooneyturkey&show_icons=true&locale=en&layout=compact" alt="tooneyturkey" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tooneyturkey&" alt="tooneyturkey" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tooneyturkey&" alt="tooneyturkey" /></p>
 
