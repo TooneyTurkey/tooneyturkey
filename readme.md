@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm TooneyTurkey</h1>
-<h3 align="center">A Rando from MN</h3>
+<h3 align="center">A Rando from MN</h3> 
 
 <!-- githubstats thing -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tooneyturkey&show_icons=true&locale=en" alt="tooneyturkey" /></p>
 im currently focusing on scouting for frc team 4198 with Aiden Lee (https://github.com/snaapsh0t12)
-this includes:
-* maintaining meanscout
-* maintaining vilescout
-* maintaining the spreadsheet
-* adapting all fo the above from year to year
+<br>
+this includes: <br>
+* maintaining meanscout <br>
+* maintaining vilescout <br>
+* maintaining the spreadsheet <br>
+* adapting all fo the above from year to year <br>
 
 <!-- languages and tools bit -->
 <h3 align="left">Top 3's:</h3>
