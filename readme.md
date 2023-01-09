@@ -8,7 +8,7 @@ im currently focusing on scouting for frc team 4198 with Aiden Lee (https://gith
 this includes: <br>
 * maintaining meanscout <br>
 * maintaining vilescout <br>
-* maintaining the spreadsheet <br>
+* maintaining the spreadsheet used to review the data taken in from these <br>
 * adapting all fo the above from year to year <br>
 
 <!-- languages and tools bit -->
