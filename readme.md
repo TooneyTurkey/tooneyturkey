@@ -3,7 +3,7 @@
 
 <!-- githubstats thing -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tooneyturkey&show_icons=true&locale=en" alt="tooneyturkey" /></p>
-im currently focusing on scouting for frc team 4198 with [Aiden Lee](https://github.com/snaapsh0t12)
+im currently focusing on scouting for frc team 4198 with Aiden Lee (https://github.com/snaapsh0t12)
 
 <!-- languages and tools bit -->
 <h3 align="left">Languages and Tools:</h3>
